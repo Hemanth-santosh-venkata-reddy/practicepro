@@ -1,0 +1,10 @@
+.Signupform{
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.Signupform .form-label{display: block;text-align: start;}
+.Signupform .card{
+    border:none;
+    box-shadow:0 0 15px rgba(0, 0, 0, .05);
+}

@@ -1,0 +1,6 @@
+.dashboard button{
+    appearance: none;
+    border:none;
+    color: blue;
+    font-weight: 600;
+}
